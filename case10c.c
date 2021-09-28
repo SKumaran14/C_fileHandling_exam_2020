@@ -1,4 +1,4 @@
-//S.Kumaran  IT20211400	Jaffna
+
 #include<stdio.h> //header file
 int main(void)
 {
